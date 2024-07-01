@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "Meetup 2025 is on March 15 – 17 at Silicon Valley. Don't miss this amazing opportunity to connect with industry leaders.",
+        "linkText": "Register Now"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Ignite Inspiration, Foster Innovation, Transform Ideas into Reality",
+        "title": "Yay: Share Your Tech Wisdom with the World"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Ignite Inspiration, Foster Innovation, Transform Ideas into Reality",
+        "title": "Yay: Share Your Tech Wisdom with the World"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Ignite Inspiration, Foster Innovation, Transform Ideas into Reality",
+        "title": "Yay: Share Your Tech Wisdom with the World"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Ignite Inspiration, Foster Innovation, Transform Ideas into Reality",
+        "title": "Yay: Share Your Tech Wisdom with the World"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Ignite Inspiration, Foster Innovation, Transform Ideas into Reality",
+        "title": "Yay: Share Your Tech Wisdom with the World"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Ignite Inspiration, Foster Innovation, Transform Ideas into Reality",
+        "title": "Yay: Share Your Tech Wisdom with the World"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Ignite Inspiration, Foster Innovation, Transform Ideas into Reality",
+        "title": "Yay: Share Your Tech Wisdom with the World"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Yay: Share Your Tech Wisdom with the World",
+  "subtitle": "Ignite Inspiration, Foster Innovation, Transform Ideas into Reality"
+}
